@@ -22,3 +22,4 @@ to
   --with-pgsql
 ```
 4. `brew reinstall --build-from-source --verbose --debug sphinx`
+5. `brew postinstall sphinx`
